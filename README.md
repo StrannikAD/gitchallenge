@@ -1,3 +1,3 @@
-# gitchallenge
+# Git Challenge
 
-##Ultimate Readme Change
+##Ultimate README change
