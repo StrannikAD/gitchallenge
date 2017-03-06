@@ -1,4 +1,4 @@
-# gitchallenge
+# Git Challenge
 
 ##Ultimate Readme Change
 
