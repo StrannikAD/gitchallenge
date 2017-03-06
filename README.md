@@ -1,4 +1,4 @@
-# GiT cHaLlEnGe
+# Git Challenge
 
 ##Ultimate Awesome README change
 
