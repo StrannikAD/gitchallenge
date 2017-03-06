@@ -1,3 +1,3 @@
-# Git Challenge
+# GiT cHaLlEnGe
 
-##Ultimate README change
+##Ultimate Awesome README change
